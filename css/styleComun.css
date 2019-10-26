@@ -54,7 +54,8 @@ a{
 
 /*(0, 0, 1)*/
 table{
-    background-color: rgb(252, 141, 15);
+    background-color: rgb(190, 126, 7);
+	color: #fff;
     border: 2px solid rgb(190, 189, 189);
 }
 
@@ -71,7 +72,6 @@ tbody{
 /*(0, 0, 1)*/
 th{
     border: 2px solid rgb(190, 189, 189);
-    background-color: rgb(255, 250, 207) ;
     font: italic;
 }
 
